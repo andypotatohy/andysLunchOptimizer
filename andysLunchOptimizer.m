@@ -1,4 +1,9 @@
 function andysLunchOptimizer
+% andysLunchOptimizer
+% 
+% This is just for fun. The result of this program is kind of random.
+% 
+% andypotato, January 2017
 
 hungry = input('How hungry are you now (0--10)? Hit enter directly if you don''t know or don''t care: ');
 mood = input('What''s in your mood for lunch (pizza,sandwitch,burger,salad,soup)? Hit enter directly if you don''t know or don''t care: ','s');
